@@ -6,7 +6,7 @@ XO Game with any size
 -	ดาวน์โหลด XAMPP และโฟลเดอร์ xo_Game และไฟล์ฐานข้อมูล xo.sql
 -	วางโฟลเดอร์ xo_Game ไว้ที่ C:\xampp\htdocs
 -	เปิด XAMPP Control คลิก Start Apache และ Start MySQL จากนั้นคลิก Admin ของ MySQL
--	Import ไฟล์ฐานข้อมูลใน http://localhost/phpmyadmin/ 
+-	สร้างฐานข้อมูลชื่อ xo_game แล้ว Import ไฟล์ฐานข้อมูล xo.sql
 -	เปิดใช้งานเว็บ http://localhost/xo_Game/ 
 
 ### วิธีการออกแบบโปรแกรม
